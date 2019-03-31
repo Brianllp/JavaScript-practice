@@ -1,0 +1,21 @@
+body {
+  background: #efefef;
+}
+
+#btn {
+  width: 200px;
+  height: 200px;
+  background: #ef454a;
+  border-radius: 50%;
+  margin: 30px auto 0;
+  text-align: center;
+  line-height: 200px;
+  color: #efefef;
+  font-size: 42px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#btn:hover {
+  opacity: 0.8;
+}
